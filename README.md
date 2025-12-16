@@ -29,10 +29,10 @@ A minimal logic DSL that transpiles into real languages like **C** and **Python*
 
 This is part of a long-term vision to create developer tools that merge simplicity with real-world power.
 
-### Big langs like Trappist, Lunar, BioC and Cryo
-**Cryo** is my experimental language with 0 runtime, Trappist is my actual serious language which i'll push the most, Lunar, BioC and Hypa are mainstream langs of mine but will be deeper in the Studio.
+### Big langs like Trappist, Lunar, BioC, Cryo, Lacertae
+**Cryo** is my experimental language with 0 runtime, Trappist is my actual serious language which i'll push the most, Lunar, BioC and Hypa are mainstream langs of mine but will be deeper in the Studio. And Lacertae will be one of the flagships....
 
-Check their repos for more info! (Trappist, Lunar or Hypa don't yet exist but BioC and Cryo do)
+Check their repos for more info! (Trappist, Lunar, Lacertae or Hypa don't yet exist but BioC and Cryo do)
 
 ### Utilities
 
