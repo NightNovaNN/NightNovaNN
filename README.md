@@ -1,85 +1,98 @@
-# 👋 Hi, I'm NightNova
+# 👋 Hi, I’m NightNova
 
-I'm a 14-year-old developer from India, working to build **ISD (Indie Software Dev) NightNova** — a future dev studio focused on creating efficient tools, languages, and software utilities.
+I’m a **14-year-old developer from India**, building toward **ISD (Indie Software Dev) NightNova** — a future dev studio focused on creating **efficient tools, programming languages, and system-level utilities**.
 
-I experiment with:
+I enjoy working close to the metal and understanding **how software actually works under the hood**, not just using abstractions.
 
-- programming language design
-- compilers & transpilers
-- lightweight scripting engines
+---
+
+## 🧪 What I Experiment With
+
+- Programming language design
+- Compilers & transpilers
+- Lightweight scripting engines
 - CLI tools
-- performance-focused utilities
+- Performance-focused utilities
 
-I use AI as a collaborator to accelerate ideas, but all problem-solving, debugging, and architecture decisions come from my own learning and thinking.  
-My goal is to understand how systems work under the hood and build tools that feel clean, fast, and modern.
-
----
-
-## Languages I know and use
-I know many languages, not fully but atleast till `beginner` level:
-- Python      `Intermediate++`
-- C / C++     `Beginner to Intermediate phase`
-- Assembly    `x86-64 Windows NASM Learner`
-- Java        `very little`
-- HTML / CSS  `not a full fledged language but i'm experienced in frontend`
+I use AI as a **collaborator** to accelerate ideas, but all **architecture, debugging, and problem-solving decisions come from my own learning and thinking**.
 
 ---
 
-## 🚀 What I'm Working On
+## 🧠 Languages & Tech I Use
 
-### Languages like Arc
+I’m not a master of everything, but I actively learn and build with:
 
-A minimal logic DSL that transpiles into real languages like **C** and **Python**, featuring:
-
-- simple, expressive syntax
-- inline native code blocks
-- automated type detection
-- brace balancing
-- multi-backend emitters
-
-This is part of a long-term vision to create developer tools that merge simplicity with real-world power.
-
-### Big langs like Trappist, Lunar, BioC, Cryo, Lacertae
-**Cryo** is my experimental language with 0 runtime, Trappist is my actual serious language which i'll push the most, Lunar, BioC and Hypa are mainstream langs of mine but will be deeper in the Studio. And Lacertae will be one of the flagships....
-
-Check their repos for more info! (Trappist, Lunar, Lacertae or Hypa don't yet exist but BioC and Cryo do)
-
-### Utilities
-
-Helper items for devs, like UniFetch, PineShell, ClawPy, and more which boost productivity and dev speed
-Also check their repos too!
+- **Python** – Intermediate++
+- **C / C++** – Beginner → Intermediate
+- **Assembly (x86-64, Windows NASM)** – Learning phase
+- **Java** – Very basic
+- **HTML / CSS** – Strong frontend experience
 
 ---
 
-## 🛠️ Skills & Interests
+## 🚀 What I’m Working On
 
-- Python
-- C / C++ basics
-- Language design, parsing, ASTs
-- Tooling, automation, CLI utilities
-- Building small but powerful dev tools
+### 🧩 Arc
+A minimal **logic DSL** that transpiles into real languages like **C and Python**, featuring:
+
+- Simple, expressive syntax  
+- Inline native code blocks  
+- Automated type detection  
+- Brace balancing  
+- Multi-backend emitters  
+
+Arc is part of a long-term vision to build tools that **merge simplicity with real-world power**.
+
+---
+
+### 🧬 Bigger Language Projects
+
+I’m designing multiple experimental and serious languages under the ISD vision:
+
+- **Cryo** – Experimental language with **zero runtime**
+- **Trappist** – My most serious language project (main focus)
+- **Lunar, BioC, Hypa** – More mainstream language ideas
+- **Lacertae** – Planned flagship language
+
+> Some of these don’t exist publicly yet — **BioC and Cryo do**, the others will come later.
+
+---
+
+## 🛠️ Utilities & Tools
+
+I also build small tools to boost productivity and dev speed, such as:
+
+- UniFetch  
+- PineShell  
+- ClawPy  
+- and more…
+
+Check their repositories for details.
 
 ---
 
 ## 🎯 Vision
 
-To grow ISD into a studio that builds:
+To grow **ISD NightNova** into a studio that builds:
 
-- programming tools
-- automation frameworks
-- innovative languages
-- open-source utilities
+- Programming tools  
+- Automation frameworks  
+- Innovative languages  
+- Open-source utilities  
 
-Ultimately, I want to make software development faster, cleaner, and more accessible — especially for young developers who want to understand **how things work under the hood**, not just use them.
+My goal is to make **software development faster, cleaner, and more accessible**, especially for **young developers** who want to understand systems deeply — not just use them.
 
 ---
 
 ## 📫 Contact
 
-Through my youtube, or reddit mention, i'll add a email or something
+- EMail (not really active there) - `nightnovann@gmail.com`
+- Youtube - (https://www.youtube.com/@NightNova-2025)[https://www.youtube.com/@NightNova-2025]
+- Reddit - (https://www.reddit.com/user/Sufficient-Gas-8829/)[https://www.reddit.com/user/Sufficient-Gas-8829/]
+In **Youtube** just comment on my videos, and on **Reddit** just tag me or comment or reply or open a _chat_.
 
 ---
 
 ## 🧠 Motto
 
-**“Think deeply, build boldly, learn endlessly.”**
+> *“Think deeply, build boldly, learn endlessly.”*
