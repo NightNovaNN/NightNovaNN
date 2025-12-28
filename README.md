@@ -15,6 +15,16 @@ My goal is to understand how systems work under the hood and build tools that fe
 
 ---
 
+## Languages I know and use
+I know many languages, not fully but atleast till `beginner` level:
+- Python      `Intermediate++`
+- C / C++     `Beginner to Intermediate phase`
+- Assembly    `x86-64 Windows NASM Learner`
+- Java        `very little`
+- HTML / CSS  `not a full fledged language but i'm experienced in frontend`
+
+---
+
 ## 🚀 What I'm Working On
 
 ### Languages like Arc
