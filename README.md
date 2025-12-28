@@ -87,8 +87,8 @@ My goal is to make **software development faster, cleaner, and more accessible**
 ## 📫 Contact
 
 - EMail (not really active there) - `nightnovann@gmail.com`
-- Youtube - (https://www.youtube.com/@NightNova-2025)[https://www.youtube.com/@NightNova-2025]
-- Reddit - (https://www.reddit.com/user/Sufficient-Gas-8829/)[https://www.reddit.com/user/Sufficient-Gas-8829/]
+- Youtube - [@NightNova-2025](https://www.youtube.com/@NightNova-2025)
+- Reddit - [u/Sufficient-Gas-8829](https://www.reddit.com/user/Sufficient-Gas-8829/)
 In **Youtube** just comment on my videos, and on **Reddit** just tag me or comment or reply or open a _chat_.
 
 ---
